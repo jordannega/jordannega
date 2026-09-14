@@ -1,19 +1,24 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/0b/a2/af/0ba2af4a6e12e924b74849381d5fa689.jpg" width="100%" alt="Header Banner" />
+  <img src="https://i.pinimg.com/736x/e6/95/88/e69588cea343ad7033d13f1bf282ed9d.jpg" width="100%" alt="Header Banner" />
 </p>
- <h1 align="center">Hi 👋, I'm Nimona Nega</h1>
- <h3 align="center">A passionate Full-Stack developer and Cybersecurity student from Ethiopia</h3>
- 
-<h4>💫 About Me:</h4> 
 
+# <h1 align="center">Hi 👋, I'm Nimona Nega</h1>
+
+<img align="right" alt="Coding Illustration" width="380" src="https://cdni.iconscout.com/illustration/premium/thumb/developer-working-on-desktop-illustration-download-in-svg-png-gif-file-formats--programmer-laptop-coding-computer-business-illustrations-3721385.png" />
+
+# 💫 About Me:
 💻 Full-Stack Developer | Architecting digital spaces from ground zero.<br><br>🛡 Cybersecurity Student | Uncovering vulnerabilities, securing systems, analyzing vectors.<br><br>🔥 Core Languages Focus | Engineering logic through Python & C.<br><br>🎯 Current Directive | Mastering low-level performance and advanced security architectures.
 
+<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jordannega) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jordannega7@gmail.com) 
 
+<br/>
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jordannega&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=jordannega&theme=dark&hide_border=false)<br/>
@@ -31,8 +36,7 @@
 ---
 [![](https://komarev.com/ghpvc/?username=jordannega&icon=6&color=4)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/jordannega) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/jordannega)
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
