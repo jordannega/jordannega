@@ -1,19 +1,33 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/8d/90/98/8d90987af9e8b4dff950a0ac5f42357f.jpg" width="100%" alt="Header Banner"/>
-<br/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nimona+Nega+%F0%9F%91%8B;Full-Stack+Developer;Cybersecurity+Student;Python+%26+C+Enthusiast" alt="Typing SVG"/>
-</a>
-<br/>
-<img src="https://img.shields.io/badge/Status-Building%20%26%20Breaking%20Things-58A6FF?style=for-the-badge" alt="Status"/>
-<img src="https://img.shields.io/badge/Focus-Security%20%26%20Systems-informational?style=for-the-badge&color=E34F26" alt="Focus"/>
+  <img src="https://i.pinimg.com/736x/8d/90/98/8d90987af9e8b4dff950a0ac5f42357f.jpg" width="100%" alt="Header Banner"/>
+  <br/><br/>
+  
+  <h1 align="center">
+    <span style="background: linear-gradient(90deg, #ff007f, #7928ca, #00dfd8, #ff007f); background-size: 300% 300%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient-animation 4s ease infinite; font-size: 2.2em; font-weight: bold;">
+      Hi 👋, I'm Nimona Nega
+    </span>
+  </h1>
+
+  <style>
+    @keyframes gradient-animation {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+  </style>
+
+  <h3 align="center">A passionate Full-Stack developer and Cybersecurity student from Ethiopia</h3>
+
+  <br/>
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Breaking%20Things-58A6FF?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Focus-Security%20%26%20Systems-informational?style=for-the-badge&color=E34F26" alt="Focus"/>
 </div>
 
 <br/>
 
 <img align="right" alt="Coding Illustration" width="380" src="https://i.pinimg.com/736x/e6/95/88/e69588cea343ad7033d13f1bf282ed9d.jpg"/>
 
-## 💫 About Me
+<h4>💫 About Me:</h4>
 
 * 💻 **Full-Stack Developer** — designing and building digital products from database to interface
 * 🛡 **Cybersecurity Student** — uncovering vulnerabilities, securing systems, analyzing attack vectors
