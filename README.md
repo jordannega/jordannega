@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/fc/12/2a/fc122a71fc084ad5174ded9f8cf89fa8.jpg" width="100%" alt="Header Banner" />
+  <img src="https://i.pinimg.com/736x/0b/a2/af/0ba2af4a6e12e924b74849381d5fa689.jpg" width="100%" alt="Header Banner" />
 </p>
  <h1 align="center">Hi 👋, I'm Nimona Nega</h1>
  <h3 align="center">A passionate Full-Stack developer and Cybersecurity student from Ethiopia</h3>
