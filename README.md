@@ -27,6 +27,13 @@
 * 🔥 **Core Languages** — thinking in Python for speed, C for control
 * 🎯 **Current Directive** — low-level performance engineering and advanced security architecture
 
+<br/>
+
+<img src="https://img.shields.io/badge/Ask%20me%20about-Python-A855F7?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Ask%20me%20about-Web%20Security-A855F7?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Ask%20me%20about-Django-A855F7?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Ask%20me%20about-C-A855F7?style=flat-square&labelColor=0d1117"/>
+
 </td>
 <td width="38%" align="center" valign="middle">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius:12px;" alt="Coding Animation"/>
@@ -47,14 +54,37 @@
 <td width="60%" valign="middle">
 
 > *"Every system has a weakness, every bug has a fix, and every failed build is one step closer to a working one."*
-> 
-> **Discipline over motivation.** > Show up. Break things. Learn. Rebuild.  
+>
+> **Discipline over motivation.**
+> Show up. Break things. Learn. Rebuild.
 > **Keep going.**
 
 </td>
 </tr>
 </table>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header"/>
+
+## 🎯 Currently Focused On
+
+<div align="center">
+
+| 🔭 Building | 🌱 Learning | 🛡 Exploring |
+|:---:|:---:|:---:|
+| Full-stack projects with Django | Low-level systems in C | Web app penetration testing |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jordannega/jordannega/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%"/>
+</div>
+
+<sub align="center">⚠️ This animates only after you add the snake workflow to your profile repo — see setup note below.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header"/>
 
@@ -74,7 +104,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,html,js,django,php,arduino&theme=dark" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=py,c,js,ts,php,html,css,react,nextjs,bootstrap,sass,figma,nodejs,express,django,mongodb,mysql,postgres,firebase,git,linux,arduino&theme=dark&perline=11" alt="Tech Stack Icons"/>
 </div>
 
 <br/>
