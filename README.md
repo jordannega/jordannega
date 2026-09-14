@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/e6/95/88/e69588cea343ad7033d13f1bf282ed9d.jpg" width="100%" alt="Header Banner" />
+  <img src="https://i.pinimg.com/736x/8d/90/98/8d90987af9e8b4dff950a0ac5f42357f.jpg" width="100%" alt="Header Banner" />
 </p>
 
 # <h1 align="center">Hi 👋, I'm Nimona Nega</h1>
 
-<img align="right" alt="Coding Illustration" width="380" src="https://cdni.iconscout.com/illustration/premium/thumb/developer-working-on-desktop-illustration-download-in-svg-png-gif-file-formats--programmer-laptop-coding-computer-business-illustrations-3721385.png" />
+<img align="right" alt="Coding Illustration" width="380" src="https://i.pinimg.com/736x/e6/95/88/e69588cea343ad7033d13f1bf282ed9d.jpg" />
 
 # 💫 About Me:
 💻 Full-Stack Developer | Architecting digital spaces from ground zero.<br><br>🛡 Cybersecurity Student | Uncovering vulnerabilities, securing systems, analyzing vectors.<br><br>🔥 Core Languages Focus | Engineering logic through Python & C.<br><br>🎯 Current Directive | Mastering low-level performance and advanced security architectures.
