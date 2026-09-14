@@ -1,32 +1,51 @@
-name: Generate Snake Animation
+name: 🐍 Ultimate Cyberpunk Snake Animation Generator
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs once a day
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+    # Runs every 12 hours to keep your grid freshly animated
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
+      - master
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   generate:
+    name: ✨ Animate Contribution Grid
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - name: Generate snake animation
+      - name: 🐍 Generate Snake Animations (Multi-Palette Edition)
         uses: Platane/snk@v3
         with:
-          github_user_name: jordannega
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=%23A855F7&color_dots=%23241b3d,%23402970,%236b21a8,%23a855f7,%23e9d5ff
+            # Cyberpunk / Synthwave Theme (Neon Purple/Pink Glow)
+            dist/github-snake-synthwave.svg?color_snake=%23ff007f&color_dots=%231a0933,%235c007a,%23a100c2,%23e000ff,%23ff007f&color_snake_head=%2300ffff
 
-      - name: Push output to "output" branch
+            # Electric Ocean Theme (Cyan / Deep Ocean Blue)
+            dist/github-snake-ocean.svg?color_snake=%2300f2fe&color_dots=%230a192f,%23004e92,%23000428,%2300d2ff,%2300f2fe&color_snake_head=%23ffffff
+
+            # Dark Mode GitHub Classic Glow
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+            # High-Contrast GIF with Custom Neon Snake
+            dist/github-contribution-grid-snake.gif?color_snake=%2338ef7d&color_dots=%23111827,%23064e3b,%23047857,%2310b981,%2334d399&color_snake_head=%23ffffff
+
+      - name: 🚀 Deploy Animations to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
+          commit_message: "art: 🐍 update snake contribution animations [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
