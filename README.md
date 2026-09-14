@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/30/d2/88/30d288d553b3b248ca152396328325ef.gif" width="100%" alt="Header Banner" />
+  <img src="https://www.pinterest.com/pin/929430441878222043/" width="100%" alt="Header Banner" />
 </p>
 # 💫 About Me:
 💻 Full-Stack Developer | Architecting digital spaces from ground zero.<br><br>🛡 Cybersecurity Student | Uncovering vulnerabilities, securing systems, analyzing vectors.<br><br>🔥 Core Languages Focus | Engineering logic through Python & C.<br><br>🎯 Current Directive | Mastering low-level performance and advanced security architectures.
