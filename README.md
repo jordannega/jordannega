@@ -3,7 +3,9 @@
 </p>
  <h1 align="center">Hi 👋, I'm Nimona Nega</h1>
  <h3 align="center">A passionate Full-Stack developer and Cybersecurity student from Ethiopia</h3>
-# 💫 About Me:
+ 
+<h4>💫 About Me:</h4> 
+
 💻 Full-Stack Developer | Architecting digital spaces from ground zero.<br><br>🛡 Cybersecurity Student | Uncovering vulnerabilities, securing systems, analyzing vectors.<br><br>🔥 Core Languages Focus | Engineering logic through Python & C.<br><br>🎯 Current Directive | Mastering low-level performance and advanced security architectures.
 
 
