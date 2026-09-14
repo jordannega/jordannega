@@ -1,105 +1,143 @@
-<p align="center">
-  <img src="https://i.pinimg.com/736x/8d/90/98/8d90987af9e8b4dff950a0ac5f42357f.jpg" width="100%" alt="Header Banner" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi there 👋, I'm Nimona Nega</h1>
+<img src="https://i.pinimg.com/736x/8d/90/98/8d90987af9e8b4dff950a0ac5f42357f.jpg" width="100%" alt="Header Banner"/>
 
-<p align="center">
-  <em>Full-Stack Developer • Cybersecurity Student • Builder of secure, scalable systems</em>
-</p>
+<br/>
 
-<img align="right" alt="Coding Illustration" width="380" src="https://i.pinimg.com/736x/e6/95/88/e69588cea343ad7033d13f1bf282ed9d.jpg" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nimona+Nega+%F0%9F%91%8B;Full-Stack+Developer;Cybersecurity+Student;Python+%26+C+Enthusiast" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Building%20%26%20Breaking%20Things-58A6FF?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/Focus-Security%20%26%20Systems-informational?style=for-the-badge&color=E34F26" alt="Focus"/>
+
+</div>
+
+<br/>
+
+<img align="right" alt="Coding Illustration" width="380" src="https://i.pinimg.com/736x/e6/95/88/e69588cea343ad7033d13f1bf282ed9d.jpg"/>
 
 ## 💫 About Me
 
-💻 **Full-Stack Developer** — architecting digital spaces from the ground up, from database schema to pixel-perfect interface.
+```yaml
+role:        Full-Stack Developer & Cybersecurity Student
+mission:     Architecting digital spaces from the ground up
+speciality:  Finding vulnerabilities before attackers do
+languages:   Python, C
+currently:   Mastering low-level performance & security architecture
+```
 
-🛡 **Cybersecurity Student** — uncovering vulnerabilities, securing systems, and analyzing attack vectors before they become incidents.
-
-🔥 **Core Language Focus** — engineering clean, efficient logic through **Python** and **C**.
-
-🎯 **Current Directive** — mastering low-level performance engineering and advanced security architecture.
+- 💻 **Full-Stack Developer** — designing and building digital products from database to interface
+- 🛡 **Cybersecurity Student** — uncovering vulnerabilities, securing systems, analyzing attack vectors
+- 🔥 **Core Languages** — engineering efficient logic through **Python** and **C**
+- 🎯 **Current Directive** — mastering low-level performance and advanced security architecture
 
 <br clear="right"/>
 
+---
+
+## 🧠 Mentality
+
+<div align="center">
+  <img src="https://i.pinimg.com/736x/d0/9a/87/d09a87d0590ea7829dd142fe519e7ded.jpg" width="55%" alt="Keep Going"/>
+</div>
+
+> *Every system has a weakness, every bug has a fix, and every failed build is one step closer to a working one.*
+> *Discipline over motivation — show up, break things, learn, rebuild. Keep going.*
+
+<br/>
+
+---
+
 ## 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
+
 <a href="https://linkedin.com/in/jordannega" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:jordannega7@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-</p>
 
-> ⚠️ Heads up — your original LinkedIn link was malformed (`linkedin.com/in/www.linkedin.com/in/jordannega`). I corrected it to `linkedin.com/in/jordannega` above — please double-check this matches your real handle before publishing.
+</div>
+
+> ⚠️ Your original LinkedIn link was malformed (`linkedin.com/in/www.linkedin.com/in/jordannega`) — corrected above to `linkedin.com/in/jordannega`. Please confirm this is your actual handle.
 
 ---
 
 ## 💻 Tech Stack
 
-<p align="left">
+<div align="center">
+
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
-</p>
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=jordannega&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jordannega&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.shion.dev/api?username=jordannega&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jordannega&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="35%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jordannega&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=jordannega&theme=dark&hide_border=false" alt="GitHub Streak" width="70%"/>
+
+</div>
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jordannega&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jordannega&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
 
 ## ✍️ Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
 
 ## 🔝 Top Contributed Repository
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jordannega&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=jordannega&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=jordannega&icon=6&color=4" alt="Profile Views" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://komarev.com/ghpvc/?username=jordannega&icon=6&color=4" alt="Profile Views"/>
+</a>
+
+</div>
 
 ## 💰 Support My Work
 
+<div align="center">
+
 If you find my projects useful, consider fueling the next one:
 
-<p align="left">
 <a href="https://buymeacoffee.com/jordannega" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
 </a>
-</p>
 
-> ⚠️ Also fixed a doubled URL in your original Buy Me a Coffee link (`buymeacoffee.com/buymeacoffee.com/jordannega` → `buymeacoffee.com/jordannega`) — verify this is your correct username.
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> ⚠️ Also fixed a duplicated path in your Buy Me a Coffee link (`buymeacoffee.com/buymeacoffee.com/jordannega` → `buymeacoffee.com/jordannega`) — verify this matches your real username.
+
+<div align="center">
+<sub><i>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></i></sub>
+</div>
