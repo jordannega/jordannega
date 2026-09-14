@@ -93,7 +93,7 @@
 <table>
 <tr>
 <td style="background:#0d1117; border:1px solid #A855F7; border-radius:14px; padding:14px;">
-<img src="https://raw.githubusercontent.com/jordannega/jordannega/output/github-contribution-grid-snake.gif" alt="Contribution Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/jordannega/jordannega/output/github-snake-synthwave.svg" alt="Contribution Snake animation" width="100%"/>
 </td>
 </tr>
 </table>
@@ -101,7 +101,7 @@
 <sub>🟣 every square the snake crosses is a real commit — still early days, but the graph only grows from here.</sub>
 </div>
 
-<sub align="center">⚠️ After updating the workflow, re-run it once (Actions tab → Run workflow) to generate the new palette.</sub>
+<sub align="center">⚠️ After updating the workflow, re-run it once (Actions tab → Run workflow) to generate the animation.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header"/>
 
