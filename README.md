@@ -39,6 +39,15 @@
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius:12px;" alt="Coding Animation"/>
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center" style="padding-top:14px;">
+
+<sub>**Languages & Tools**</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=py,c,js,ts,php,html,css,react,nextjs,bootstrap,sass,figma,nodejs,express,django,mongodb,mysql,postgres,firebase,git,linux,arduino&theme=dark&perline=11" alt="Tech Stack Icons"/>
+
+</td>
+</tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header"/>
@@ -81,10 +90,18 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jordannega/jordannega/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%"/>
+<table>
+<tr>
+<td style="background:#0d1117; border:1px solid #A855F7; border-radius:14px; padding:14px;">
+<img src="https://raw.githubusercontent.com/jordannega/jordannega/output/github-contribution-grid-snake.gif" alt="Contribution Snake animation" width="100%"/>
+</td>
+</tr>
+</table>
+
+<sub>🟣 every square the snake crosses is a real commit — still early days, but the graph only grows from here.</sub>
 </div>
 
-<sub align="center">⚠️ This animates only after you add the snake workflow to your profile repo — see setup note below.</sub>
+<sub align="center">⚠️ After updating the workflow, re-run it once (Actions tab → Run workflow) to generate the new palette.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header"/>
 
@@ -100,12 +117,6 @@
 </div>
 
 <br/>
-
-## 💻 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,js,ts,php,html,css,react,nextjs,bootstrap,sass,figma,nodejs,express,django,mongodb,mysql,postgres,firebase,git,linux,arduino&theme=dark&perline=11" alt="Tech Stack Icons"/>
-</div>
 
 <br/>
 
