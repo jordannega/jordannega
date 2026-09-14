@@ -5,19 +5,14 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=A855F7&center=true&vCenter=true&width=800&height=90&lines=A+passionate+Full-Stack+Developer+%F0%9F%9A%80;Cybersecurity+Student+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9;Turning+curiosity+into+secure%2C+working+code" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=A855F7&center=true&vCenter=true&width=800&height=90&lines=A+passionate+Full-Stack+Developer+%F0%9F%9A%80;Cybersecurity+Student+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9;Turning+curiosity+into+secure%2C+working+code" alt="Typing SVG"/>
   </a>
   
   <br/>
-  <p align="center">
-    <img src="https://img.shields.io/badge/OS-Kali_Linux-blueviolet?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Focus-Active_Directory_%26_Web-red?style=for-the-badge&logo=active-directory&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Status-Building_%26_Breaking-58A6FF?style=for-the-badge&labelColor=0d1117"/>
-    <img src="https://img.shields.io/badge/Open_To-Collaboration-2ea043?style=for-the-badge&labelColor=0d1117"/>
-  </p>
+  <img src="https://img.shields.io/badge/status-actively%20building-A855F7?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/focus-security%20%26%20systems-E34F26?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/open%20to-collaboration-2ea043?style=for-the-badge&labelColor=0d1117"/>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -32,11 +27,119 @@
 * 🔥 **Core Languages** — thinking in Python for speed, C for control
 * 🎯 **Current Directive** — low-level performance engineering and advanced security architecture
 
+</td>
+<td width="38%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius:12px;" alt="Coding Animation"/>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header"/>
+
+## 🧠 Mentality
+
+<div align="center">
+<table>
+<tr>
+<td width="40%" valign="middle">
+<img src="https://i.pinimg.com/736x/d0/9a/87/d09a87d0590ea7829dd142fe519e7ded.jpg" width="100%" style="border-radius:12px;" alt="Keep Going"/>
+</td>
+<td width="60%" valign="middle">
+
+> *"Every system has a weakness, every bug has a fix, and every failed build is one step closer to a working one."*
+> 
+> **Discipline over motivation.** > Show up. Break things. Learn. Rebuild.  
+> **Keep going.**
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header"/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+<a href="https://linkedin.com/in/jordannega" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:jordannega7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</div>
+
 <br/>
 
-```bash
-root@nimona:~# cat capabilities.txt
-[+] Full-Stack Development (Django, JS, PHP)
-[+] Network & Domain Enumeration (Active Directory)
-[+] Reverse Engineering & Cryptography 
-[+] Hardware & Embedded Logic (Arduino, C)
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,html,js,django,php,arduino&theme=dark" alt="Tech Stack Icons"/>
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=jordannega&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jordannega&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="36%"/>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=jordannega&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jordannega&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="95%"/>
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jordannega&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<br/>
+
+### 🔝 Top Contributed Repository
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=jordannega&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://komarev.com/ghpvc/?username=jordannega&icon=6&color=4" alt="Profile Views"/>
+</a>
+</div>
+
+<br/>
+
+## 💰 Support My Work
+
+<div align="center">
+If you find my projects useful, consider fueling the next one:
+
+<br/>
+
+<a href="https://buymeacoffee.com/jordannega" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+</a>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer"/>
+
+<div align="center">
+<sub><i>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></i></sub>
+</div>
