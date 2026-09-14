@@ -101,8 +101,6 @@
 <sub>🟣 every square the snake crosses is a real commit — still early days, but the graph only grows from here.</sub>
 </div>
 
-<sub align="center">⚠️ After updating the workflow, re-run it once (Actions tab → Run workflow) to generate the animation.</sub>
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header"/>
 
 ## 🌐 Connect With Me
