@@ -2,32 +2,39 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:A855F7&height=220&section=header&text=Nimona%20Nega&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Student&descAlignY=58&descSize=20" width="100%" alt="Header Banner"/>
 
-<br/>
+<img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="100%" height="220" alt="Header Image" style="border-radius:10px; margin-top:10px; object-fit:cover; object-position:center;"/>
 
-<table width="94%" border="0" cellpadding="18" cellspacing="0">
-<tr>
-<td width="58%" align="left" valign="middle">
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=A855F7&center=true&vCenter=true&width=800&height=90&lines=A+passionate+Full-Stack+Developer+%F0%9F%9A%80;Cybersecurity+Student+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9;Turning+curiosity+into+secure%2C+working+code" alt="Typing SVG"/>
 </a>
 
-</td>
-<td width="42%" align="center" valign="middle">
+<br/>
 
-<img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="100%" height="170" alt="Header Image" style="border-radius:12px; object-fit:cover; object-position:center;"/>
-
+<table width="96%" border="0" cellpadding="12" cellspacing="0">
+<tr>
+<td align="center">
+<sub>◈ &nbsp; CURRENT OPERATING STATUS &nbsp; ◈</sub>
 </td>
 </tr>
 </table>
-
-<br/>
-
+<table width="96%" border="0" cellpadding="14" cellspacing="0">
+<tr>
+<td width="33%" align="center" valign="middle">
+<sub>01 / BUILD MODE</sub><br/><br/>
 <img src="https://img.shields.io/badge/status-actively%20building-A855F7?style=for-the-badge&labelColor=0d1117" alt="Status: actively building"/>
-&nbsp;
+</td>
+<td width="33%" align="center" valign="middle">
+<sub>02 / CORE FOCUS</sub><br/><br/>
 <img src="https://img.shields.io/badge/focus-security%20%26%20systems-E34F26?style=for-the-badge&labelColor=0d1117" alt="Focus: security and systems"/>
-&nbsp;
+</td>
+<td width="33%" align="center" valign="middle">
+<sub>03 / OPEN CHANNEL</sub><br/><br/>
 <img src="https://img.shields.io/badge/open%20to-collaboration-2ea043?style=for-the-badge&labelColor=0d1117" alt="Open to collaboration"/>
+</td>
+</tr>
+</table>
 
 </div>
 
