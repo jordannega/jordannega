@@ -16,9 +16,9 @@
 
 <br/>
 
-<table>
+<table width="100%" style="background-color:#0d1117; border:1px solid #A855F7; border-radius:14px;">
 <tr>
-<td width="62%" valign="top">
+<td width="62%" valign="top" style="padding:16px;">
 
 ### 💫 About Me
 
@@ -35,12 +35,12 @@
 <img src="https://img.shields.io/badge/Ask%20me%20about-C-A855F7?style=flat-square&labelColor=0d1117"/>
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle" style="padding:16px;">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius:12px;" alt="Coding Animation"/>
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center" style="padding-top:14px;">
+<td colspan="2" align="center" style="padding:14px; border-top:1px solid #1f2937;">
 
 <sub>**Languages & Tools**</sub>
 <br/>
@@ -55,12 +55,12 @@
 ## 🧠 Mentality
 
 <div align="center">
-<table>
+<table width="100%" style="background-color:#0d1117; border:1px solid #A855F7; border-radius:14px;">
 <tr>
-<td width="40%" valign="middle">
+<td width="40%" valign="middle" style="padding:16px;">
 <img src="https://i.pinimg.com/736x/d0/9a/87/d09a87d0590ea7829dd142fe519e7ded.jpg" width="100%" style="border-radius:12px;" alt="Keep Going"/>
 </td>
-<td width="60%" valign="middle">
+<td width="60%" valign="middle" style="padding:16px;">
 
 > *"Every system has a weakness, every bug has a fix, and every failed build is one step closer to a working one."*
 >
@@ -90,9 +90,9 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-<table>
+<table width="100%" style="background-color:#0d1117; border:1px solid #A855F7; border-radius:14px;">
 <tr>
-<td style="background:#0d1117; border:1px solid #A855F7; border-radius:14px; padding:14px;">
+<td style="padding:14px;">
 <img src="https://raw.githubusercontent.com/jordannega/jordannega/output/github-snake-synthwave.svg" alt="Contribution Snake animation" width="100%"/>
 </td>
 </tr>
