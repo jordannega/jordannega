@@ -187,8 +187,9 @@ Web app penetration testing
 </tr>
 <tr>
 <td colspan="2" align="center">
-<br/>
-<img src="./assets/trophy.svg" alt="GitHub Trophies" />
+<br/><div align="center">
+  <img src="./github-profile-trophy.svg" alt="GitHub Trophies"/>
+</div>
 </td>
 </tr>
 </table>
