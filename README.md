@@ -208,7 +208,7 @@ Web app penetration testing
 
 <br/><br/>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=jordannega&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repository"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jordannega&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact" alt="Top Languages & Repositories" width="400"/>
 </div>
 
 <br/>
