@@ -1,0 +1,24 @@
+name: Generate Trophy
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=jordannega&theme=tokyonight'
+          path: assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/trophy.svg
+          git commit -m "Update profile trophies" || exit 0
+          git push
