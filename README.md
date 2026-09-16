@@ -188,7 +188,8 @@ Web app penetration testing
 <tr>
 <td colspan="2" align="center">
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jordannega&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="96%"/>
+<!-- Alternative working trophy endpoint -->
+<img src="https://github-profile-trophy.vercel.app/?username=jordannega&theme=tokyonight" alt="GitHub Trophies"/>
 </td>
 </tr>
 </table>
@@ -199,8 +200,7 @@ Web app penetration testing
 <div align="center">
 <h2>╭─ 07 / HIGHLIGHTS</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=jordannega&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jordannega&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/><img src="https://github-readme-stats.shion.dev/api?username=jordannega&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="80%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=jordannega&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="80%"/>
 
 <br/><br/>
 
