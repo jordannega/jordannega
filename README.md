@@ -188,8 +188,7 @@ Web app penetration testing
 <tr>
 <td colspan="2" align="center">
 <br/>
-<!-- Alternative working trophy endpoint -->
-<img src="https://github-profile-trophy.vercel.app/?username=jordannega&theme=tokyonight" alt="GitHub Trophies"/>
+<img src="./assets/trophy.svg" alt="GitHub Trophies" />
 </td>
 </tr>
 </table>
